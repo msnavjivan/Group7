@@ -1,0 +1,208 @@
+{
+  "candidates": {
+    "7phnQzsULbM2HO9TFGYQa2EH4Nf1": {
+      "connections": {
+        "post1": false
+      },
+      "id": "7phnQzsULbM2HO9TFGYQa2EH4Nf1",
+      "moreDetails": "An experienced candidate with a proven track record in marketing.",
+      "name": "John Doe",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Candidate1.png?alt=media&token=694bc86c-e6fa-411c-a3fa-e41b007569c7",
+      "title": "Marketing Manager"
+    },
+    "AZFW201miLQYV6YfX5yoOJ0iadG2": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true,
+        "WJXNNTbYllYdLL0pCsICnX9Mf7l1": true,
+        "k13qJoA4xza86LplslTnZSoEDn13": true,
+        "meni6OyWeXQPk7cMDkPTfOM9xZT2": true
+      }
+    },
+    "JWrmRVMZNnWkmLefJVLt6bgQPg22": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true,
+        "WJXNNTbYllYdLL0pCsICnX9Mf7l1": true,
+        "YAPeMwuoGQWEumAUUANclu1DXav1": true,
+        "k13qJoA4xza86LplslTnZSoEDn13": true,
+        "meni6OyWeXQPk7cMDkPTfOM9xZT2": true
+      }
+    },
+    "WJXNNTbYllYdLL0pCsICnX9Mf7l1": {
+      "connections": {
+        "post2": false
+      },
+      "id": "WJXNNTbYllYdLL0pCsICnX9Mf7l1",
+      "moreDetails": "A dedicated professional with extensive experience in sales.",
+      "name": "Jane Smith",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Candidate2.png?alt=media&token=bde5663a-cde0-4841-b5fd-904d2fd3c121",
+      "title": "Sales Director"
+    },
+    "YAPeMwuoGQWEumAUUANclu1DXav1": {
+      "connections": {
+        "post3": false
+      },
+      "id": "YAPeMwuoGQWEumAUUANclu1DXav1",
+      "moreDetails": "A creative individual with a passion for design and innovation.",
+      "name": "Emily Johnson",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Candidate3.png?alt=media&token=7efb0ced-d0a8-4c36-941a-77f01805bc3d",
+      "title": "Graphic Designer"
+    },
+    "k13qJoA4xza86LplslTnZSoEDn13": {
+      "connections": {
+        "post4": false
+      },
+      "id": "k13qJoA4xza86LplslTnZSoEDn13",
+      "moreDetails": "A detail-oriented candidate with strong analytical skills.",
+      "name": "Michael Brown",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Candidate4.png?alt=media&token=bf7e0168-fa5c-4254-91af-a121620380b6",
+      "title": "Financial Analyst"
+    },
+    "meni6OyWeXQPk7cMDkPTfOM9xZT2": {
+      "connections": {
+        "post5": false
+      },
+      "id": "meni6OyWeXQPk7cMDkPTfOM9xZT2",
+      "moreDetails": "A dynamic individual with leadership qualities and a strategic mindset.",
+      "name": "Alexandra Davis",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Candidate5.png?alt=media&token=97803ef6-eca1-4d1c-aafa-7a2f574c2eb1",
+      "title": "Project Manager"
+    },
+    "ro6FJ2SLRWU17GZIbAvv5wUrU2r2": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true
+      }
+    }
+  },
+  "posts": {
+    "post1": {
+      "candidateId": "7phnQzsULbM2HO9TFGYQa2EH4Nf1",
+      "detail": "Excited to share my insights on the latest marketing trends!",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost1.png?alt=media&token=3283ba69-7ea1-4eb9-b9fe-42a6b81a4b97",
+      "name": "John Doe",
+      "title": "Marketing Insights"
+    },
+    "post10": {
+      "candidateId": "WJXNNTbYllYdLL0pCsICnX9Mf7l1",
+      "detail": "Leading cross-functional teams to deliver exceptional results.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost10.jpg?alt=media&token=d89af883-380f-41c6-969d-5f761ad996ec",
+      "name": "Jane Smith",
+      "title": "Cross-Functional Team Leader"
+    },
+    "post11": {
+      "candidateId": "YAPeMwuoGQWEumAUUANclu1DXav1",
+      "detail": "Expert in risk assessment and mitigation strategies.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost11.jpg?alt=media&token=4ef94834-a963-4611-865c-8851eb979ece",
+      "name": "Emily Johnson",
+      "title": "Risk Management Specialist"
+    },
+    "post12": {
+      "candidateId": "k13qJoA4xza86LplslTnZSoEDn13",
+      "detail": "Streamlining operations for enhanced productivity and profitability.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost12.jpeg?alt=media&token=49947cd2-1533-4e21-be12-c780bc444f9f",
+      "name": "Michael Brown",
+      "title": "Operations Efficiency Consultant"
+    },
+    "post13": {
+      "candidateId": "k13qJoA4xza86LplslTnZSoEDn13",
+      "detail": "Building strong client relationships to drive business growth.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost13.jpeg?alt=media&token=46156140-d565-4ae7-97a2-f09b2bb6f604",
+      "name": "Michael Brown",
+      "title": "Client Relationship Manager"
+    },
+    "post14": {
+      "candidateId": "YAPeMwuoGQWEumAUUANclu1DXav1",
+      "detail": "Expertise in agile methodologies for rapid project delivery.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost14.jpg?alt=media&token=ef58108b-4b23-492c-89df-93af3742079e",
+      "name": "Emily Johnson",
+      "title": "Agile Project Manager"
+    },
+    "post2": {
+      "candidateId": "WJXNNTbYllYdLL0pCsICnX9Mf7l1",
+      "detail": "Join me in exploring innovative sales strategies.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost2.png?alt=media&token=52fbb225-a22b-4801-a6c3-99263aef7447",
+      "name": "Jane Smith",
+      "title": "Sales Strategies"
+    },
+    "post3": {
+      "candidateId": "YAPeMwuoGQWEumAUUANclu1DXav1",
+      "detail": "Discover the power of visual storytelling in design!",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost3.png?alt=media&token=f0073e90-690b-4df6-96b0-0c26077a769a",
+      "name": "Emily Johnson",
+      "title": "Visual Storytelling"
+    },
+    "post4": {
+      "candidateId": "k13qJoA4xza86LplslTnZSoEDn13",
+      "detail": "Analyzing financial trends for better decision-making.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost4.jpeg?alt=media&token=8462fa7b-4dd8-4a80-ade7-52f6596ab97a",
+      "name": "Michael Brown",
+      "title": "Financial Trends Analysis"
+    },
+    "post5": {
+      "candidateId": "meni6OyWeXQPk7cMDkPTfOM9xZT2",
+      "detail": "Leading successful project teams towards excellence.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost5.png?alt=media&token=9943b283-600b-4b03-9a48-500370cd4dbe",
+      "name": "Alexandra Davis",
+      "title": "Project Leadership"
+    },
+    "post6": {
+      "candidateId": "meni6OyWeXQPk7cMDkPTfOM9xZT2",
+      "detail": "Expertise in strategic planning and implementation.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost6.png?alt=media&token=f175e37b-a008-4093-8288-cde7c5ed9ca0",
+      "name": "Alexandra Davis",
+      "title": "Strategic Planning Consultant"
+    },
+    "post7": {
+      "candidateId": "meni6OyWeXQPk7cMDkPTfOM9xZT2",
+      "detail": "Driving innovation through effective team collaboration.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost7.jpg?alt=media&token=97b6d216-6de6-4637-bdfa-a38464631687",
+      "name": "Alexandra Davis",
+      "title": "Innovation Facilitator"
+    },
+    "post8": {
+      "candidateId": "meni6OyWeXQPk7cMDkPTfOM9xZT2",
+      "detail": "Maximizing efficiency with proven process optimization strategies.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost8.jpeg?alt=media&token=83b2a85a-3c7f-4c16-abed-ae62872eff73",
+      "name": "Alexandra Davis",
+      "title": "Process Optimization Specialist"
+    },
+    "post9": {
+      "candidateId": "7phnQzsULbM2HO9TFGYQa2EH4Nf1",
+      "detail": "Achieving project milestones with precision and dedication.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/group7-b8306.appspot.com/o/Post%2FPost9.jpg?alt=media&token=97872905-5957-4d51-a98d-3a6306e37339",
+      "name": "John Doe",
+      "title": "Project Management Expert"
+    }
+  },
+  "users": {
+    "AZFW201miLQYV6YfX5yoOJ0iadG2": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true,
+        "JWrmRVMZNnWkmLefJVLt6bgQPg22": true,
+        "WJXNNTbYllYdLL0pCsICnX9Mf7l1": true,
+        "YAPeMwuoGQWEumAUUANclu1DXav1": true,
+        "k13qJoA4xza86LplslTnZSoEDn13": true,
+        "meni6OyWeXQPk7cMDkPTfOM9xZT2": true,
+        "ro6FJ2SLRWU17GZIbAvv5wUrU2r2": true
+      }
+    },
+    "JWrmRVMZNnWkmLefJVLt6bgQPg22": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true,
+        "WJXNNTbYllYdLL0pCsICnX9Mf7l1": true,
+        "YAPeMwuoGQWEumAUUANclu1DXav1": true,
+        "k13qJoA4xza86LplslTnZSoEDn13": true,
+        "meni6OyWeXQPk7cMDkPTfOM9xZT2": true
+      }
+    },
+    "ro6FJ2SLRWU17GZIbAvv5wUrU2r2": {
+      "connections": {
+        "7phnQzsULbM2HO9TFGYQa2EH4Nf1": true,
+        "JWrmRVMZNnWkmLefJVLt6bgQPg22": true,
+        "WJXNNTbYllYdLL0pCsICnX9Mf7l1": true,
+        "YAPeMwuoGQWEumAUUANclu1DXav1": true,
+        "k13qJoA4xza86LplslTnZSoEDn13": true,
+        "meni6OyWeXQPk7cMDkPTfOM9xZT2": true
+      }
+    }
+  }
+}
