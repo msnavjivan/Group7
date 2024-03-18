@@ -24,7 +24,7 @@
             android:layout_width="69dp"
             android:layout_height="66dp"
             android:contentDescription="Logo"
-            android:src="@drawable/connectchain1" />
+            android:src="@drawable/ConnectChain1" />
 
         <!-- Display User's Email -->
         <TextView
@@ -60,11 +60,13 @@
 
     </LinearLayout>
 
+    <!-- Go to Candidate Page Button -->
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="0dp"
         android:layout_height="560dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toolbar">
 
@@ -74,16 +76,17 @@
             android:layout_width="match_parent"
             android:layout_height="499dp"
             android:layout_marginTop="15dp"
-            android:textColor="#FFFFFF"/>
+            android:textColor="#FFFFFF" />
 
     </ScrollView>
 
-    <!-- Go to Candidate Page Button -->
     <Button
         android:id="@+id/btn_candidate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginEnd="250dp"
         android:backgroundTint="#15A9EF"
         android:onClick="goToCandidatePage"
         android:text="Go to Candidate Page"
@@ -91,6 +94,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
